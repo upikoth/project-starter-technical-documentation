@@ -17,8 +17,8 @@ module.exports = {
 function getSidebar() {
   return [
     {
-      text: "Описание функционала",
-      items: [{ text: "Регистрация", link: "/registration" }],
+      text: "Product manager",
+      items: [{ text: "Идея приложения", link: "/product/analysis" }],
     },
   ];
 }
